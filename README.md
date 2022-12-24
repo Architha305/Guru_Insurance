@@ -10,7 +10,7 @@ add node modules properly
 -- Added small page oject file to reuse the common locator file
 -- Added cucumber framework for the script management
 -- Added data in fixtures file
--- Used custom commands
+-- Used custom commands for code representation
 
 ## 4.Steps and Commands to run cypress test scripts
 -- go to test-developer-task
